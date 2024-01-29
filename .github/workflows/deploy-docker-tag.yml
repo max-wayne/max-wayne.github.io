@@ -33,10 +33,12 @@ jobs:
           images: amirpourmand/al-folio
 
       - name: Login
-        uses: docker/login-action@v3
-        with:
-          username: ${{ secrets.WAYNEMAX }}
-          password: ${{ secrets.dckr_pat_l8E1tOOdjWsvy7Q7cC_Cszq0Rfc }}
+        run: docker login -u ${{ secrets.WAYNEMAX }}
+                          -p ${{ secrets.dckr_pat_l8E1tOOdjWsvy7Q7cC_Cszq0Rfc }}
+        #uses: docker/login-action@v3
+        #with:
+          #username: ${{ secrets.WAYNEMAX }}
+          #password: ${{ secrets.dckr_pat_l8E1tOOdjWsvy7Q7cC_Cszq0Rfc }}
 
       - name: Build and push
         uses: docker/build-push-action@v5
