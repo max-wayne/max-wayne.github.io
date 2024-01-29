@@ -24,7 +24,7 @@ ENV LANG=en_US.UTF-8 \
     JEKYLL_ENV=production
 
 # install jekyll and dependencies
-RUN gem install jekyll bundler
+# RUN gem install jekyll bundler
 
 RUN mkdir /srv/jekyll
 
