@@ -6,6 +6,7 @@ on:
     workflows: ["Docker Image CI"]
     types:
       - completed
+  workflow_dispatch:
 
 # on:
 #   push:
