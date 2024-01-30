@@ -46,7 +46,7 @@ jobs:
           DSLIM_CONTINUE_AFTER: signal
         with:
           target: amirpourmand/al-folio
-          tag: "slim"
+          tag: "latest"
 
       # Push to the registry
-      - run: docker image push amirpourmand/al-folio:slim
+      - run: docker image push amirpourmand/al-folio:latest
