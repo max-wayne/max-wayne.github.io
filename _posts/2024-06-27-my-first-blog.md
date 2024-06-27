@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-``The Awakening Age'' refers to a time when people become more aware and conscious of certain issues, ideas, or truths that were previously overlooked or ignored. During the Awakening, individuals may experience personal growth, societal transformation, or a shift in perspectives and beliefs. It signifies a time of enlightenment, self-discovery, and a renewed sense of purpose or awareness.
+The Awakening Age refers to a time when people become more aware and conscious of certain issues, ideas, or truths that were previously overlooked or ignored. During the Awakening, individuals may experience personal growth, societal transformation, or a shift in perspectives and beliefs. It signifies a time of enlightenment, self-discovery, and a renewed sense of purpose or awareness.
 
 ## Table of Contents
 
