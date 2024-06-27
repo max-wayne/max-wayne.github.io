@@ -3,7 +3,7 @@ layout: post
 title: The Awakening Age
 date: 2024-06-27 10:30:00
 description: A time when people become more aware and conscious of certain issues, ideas, or truths that were previously overlooked or ignored.
-tags: conscious, issues, ideas, truths
+tags: self-conscious, issues, ideas, truths
 categories: awakening-posts
 giscus_comments: true
 related_posts: false
