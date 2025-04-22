@@ -133,7 +133,7 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 3
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -157,7 +157,7 @@ disqus_shortname: fanhui # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
+# external_sources:
   # - name: medium.com
     # rss_url: https://medium.com/@al-folio/feed
 
