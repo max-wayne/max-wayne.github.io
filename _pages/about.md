@@ -6,12 +6,12 @@ subtitle: Information Spreading Dynamics in Complex Systems, Shanghai University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>7911</p>
+    <p>No. 333 Longteng Road, Songjiang District</p>
+    <p>Shanghai, 201620</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
