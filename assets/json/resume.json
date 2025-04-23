@@ -5,7 +5,7 @@
     "image": "",
     "email": "mengfh3@sues.edu.cn",
     "phone": "",
-    "google scholar": "https://scholar.google.com/citations?user=UH7sBXEAAAAJ&hl=en",
+    "url": "https://scholar.google.com/citations?user=UH7sBXEAAAAJ&hl=en",
     "summary": "A highly enthusiastic researcher in the field of information spreading dynamics within complex systems",
     "location": {
       "address": "No. 333 Longteng Road",
@@ -51,8 +51,8 @@
       "url": "https://www.sysu.edu.cn/sysuen/",
       "area": "Systems Science",
       "studyType": "PhD",
-      "startDate": "2020-09-01",
-      "endDate": "2024-12-18",
+      "startDate": "2020",
+      "endDate": "2024",
       "score": "",
       "courses": [""]
     }
