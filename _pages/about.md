@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Information Spreading Dynamics in Complex Systems, Shanghai University of Engineering Science
 
 profile:
   align: right
