@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Information Spreading Dynamics in Complex Systems
+subtitle: Complex Systems, Spreading Dynamics
 
 profile:
   align: right
