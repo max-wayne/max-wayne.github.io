@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-08-08 17:43:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper entitled `A Complex Network Approach to Designing Bernoulli Parity-Check Codes` won the `Best Paper Award` at The 13th IEEE/CIC International Conference on Communications in China held in Hangzhou, China on August 7-9, 2024.
