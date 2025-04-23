@@ -7,11 +7,11 @@ subtitle: Information Spreading Dynamics in Complex Systems
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>7911, School of Electronic and Electrical Engineering, Shanghai University of Engineering Science</p>
+    <p>Shanghai University of Engineering Science</p>
     <p>No. 333 Longteng Road, Songjiang District</p>
-    <p>Shanghai, 201620</p>
+    <p>Shanghai, 201620, China</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
