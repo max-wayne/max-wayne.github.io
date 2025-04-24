@@ -25,10 +25,10 @@
   "work": [
     {
       "name": "School of Electronic and Electrical Engineering, Shanghai University of Engineering Science",
-      "position": "Lecturer of Computer Science",
+      "position": "Lecturer",
       "url": "",
       "startDate": "2025",
-      "endDate": "present",
+      "endDate": "",
       "summary": "",
       "highlights": [""]
     }
@@ -47,7 +47,7 @@
   "education": [
     {
       "institution": "Sun Yat-sen University, Guangzhou, China",
-      "location": "Guangzhou, China",
+      "location": "",
       "url": "https://www.sysu.edu.cn/sysuen/",
       "area": "Systems Science",
       "studyType": "PhD",
@@ -162,7 +162,7 @@
   ],
   "interests": [
     {
-      "name": "Statistical Physics, Computational Social Science, Information Theory",
+      "name": "Statistical Physics, Social Science, Information Theory",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Percolation Theory",
