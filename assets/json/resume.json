@@ -150,7 +150,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,15 +162,14 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Statistical Physics, Computational Social Science, Information Theory",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Percolation Theory",
+        "Collective Behavior",
+        "Propagation Model",
+        "Information Entropy",
+        "Spin Glasses"
       ]
     }
   ],
