@@ -276,7 +276,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["physics", "math", "music", "language", "musing"] # these tags will be displayed on the front page of your blog
-display_categories: ["statistical physics", "information theory", "computer science". "social science", "life"] # these categories will be displayed on the front page of your blog
+display_categories: ["statistical physics", "information theory", "computer science", "social science", "life"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
