@@ -7,7 +7,7 @@ subtitle: Complex Systems, Spreading Dynamics
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Shanghai University of Engineering Science</p>
     <p>No. 333 Longteng Road, Shanghai, 201620, China</p>
